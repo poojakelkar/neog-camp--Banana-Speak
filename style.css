@@ -1,9 +1,16 @@
+body{
+    font-family: 'Courgette', cursive;
+    
+}
+
 #text-input{
     width: 80%;
     height: 10vh;
     display: block;
     margin: 1rem;
     padding: 1rem;
+    
+
 }
 
 #output{
@@ -15,11 +22,26 @@
     padding: 1rem;
 }
 
-#text{
+.text{
     font-size: large;
     padding-top: 1rem;
+    text-align: center;
+}
+.container
+{
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #F2C662; 
+    text-align: center;  
 }
 
-body{
-    background-color: yellow;
+#btn-translator{
+    margin-left: 1rem;
+    padding: 0.8rem;
+    background-color: #F2C662;
+    border: none;
+    font-size: large;
+    font-family: 'Courgette', cursive;
+
+
 }
