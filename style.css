@@ -9,6 +9,7 @@ body{
     display: block;
     margin: 1rem;
     padding: 1rem;
+   font-size: x-large;
     
 
 }
@@ -20,12 +21,14 @@ body{
     display: block;
     margin: 1rem;
     padding: 1rem;
+    font-size: x-large
 }
 
 .text{
     font-size: large;
     padding-top: 1rem;
     text-align: center;
+    font-size: medium;
 }
 .container
 {
