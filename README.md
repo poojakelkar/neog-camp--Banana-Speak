@@ -13,7 +13,7 @@ Created using Javascript,HTML,CSS
 
 ### Snapshot
 
-![snapshotoftheapp](snapshot1.PNG)
+![snapshot1](https://user-images.githubusercontent.com/44290901/134701489-87a2d63f-4e04-4588-92c9-939d28e60903.PNG)
 
 ### Thanks for going through my project please reach out to me on twitter if you want to give any feedback
 
